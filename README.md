@@ -114,5 +114,7 @@ sudo chsh -s $(which zsh) $USER
 > `File > Preferences > Settings > Terminal > Font Family`  
 > y escribe: `MesloLGS NF`
 
-## 🌟 Recomendación
-Si quieres un script de instalación automática, revisa [este enlace](https://github.com/tu-usuario/customterminal/blob/main/install_zsh_p10k.sh).
+### Bibliografia
+https://terminaldelinux.com/terminal/preparacion-entorno/instalacion-zsh/
+https://ohmyz.sh/#install
+https://github.com/romkatv/powerlevel10k
